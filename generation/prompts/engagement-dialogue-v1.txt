@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: scenario-based avatar expression sheet
+Input images: Image 1 is the exact identity anchor. Image 2 is the exact layout, portrait framing, clothing, background, lighting, and semi-photographic painterly style reference for the same person.
+
+Create one unlabeled 3-row by 4-column contact sheet containing twelve equal square bust portraits of the same person. Preserve their identity, hair, clothing, warm neutral backdrop, camera distance, scale, lighting, and textured semi-photographic style in every cell. Keep the entire top of their head visible in every cell. Use narrow clean white gutters matching Image 2. No text, labels, numbers, or extra panels.
+
+Cells, left to right:
+Row 1: disappointed — upright but reacting to a poor result with lowered gaze; discouraged — visibly deflated, head or forehead supported by one hand; bored — cheek resting in palm, half-lidded attention drifting; tired — heavy eyes while rubbing one eye or suppressing a yawn.
+Row 2: sleeping — eyes closed, cheek resting on folded hands and forearms across the lower frame, with an implied desk or table just below the frame; distractedPhone — looking down at a clearly visible handheld phone; handRaised — silently waiting to be called on with one hand fully visible beside the head; shrugging — shoulders raised with open palms entering the lower frame.
+Row 3: talking — relaxed neutral mid-sentence conversation; askingQuestion — speaking inquisitively with one palm turned upward; interrupting — leaning forward mid-speech with an assertive hand projecting toward the conversation; whispering — leaning sideways with one hand cupped beside the mouth.
+
+Make each state immediately distinguishable through expression, head position, posture, and hands or props where specified.

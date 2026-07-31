@@ -1,0 +1,14 @@
+Use case: precise-object-edit
+Asset type: replacement listening-state avatar source sheet
+Input image: Image 1 is the exact 3-row by 4-column baseline sheet and fixes the identity, cell assignment, clothing, backdrop, lighting, framing, and semi-photographic painterly style for all twelve portraits.
+
+Edit the people in every cell into a clearly observable active-listening pose. Each person is listening closely to another person nearby: attentive eyes, a slight forward or sideways head inclination, and one hand lightly cupped beside or just behind the ear as a natural “I’m listening” gesture. The hand and enough forearm should be visible within the bust portrait.
+
+Preserve the same person in the same cell, with the same face, hair or head covering, clothing, warm neutral background, scale, and complete top of head. Preserve the exact 4-column by 3-row sheet with twelve equal square cells and clean narrow white gutters. No text or labels.
+
+All listening is person-to-person. Every portrait has no headphones, headset, earbuds, earphones, earpieces, microphone, cords, wires, or electronic audio equipment.
+
+Cell order, left to right:
+Row 1: Aaliyah, Cameron, Marcus, Erin
+Row 2: Mateo, Nia, Shelby, Zuri
+Row 3: Wesley, Yusuf, Samira, Minh

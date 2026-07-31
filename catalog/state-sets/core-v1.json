@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "setId": "core-v1",
+  "states": [
+    "blank",
+    "calm",
+    "explaining",
+    "concerned",
+    "concernedFear",
+    "contempt",
+    "driven",
+    "fear",
+    "serious",
+    "suspicious",
+    "smile",
+    "veryAngry",
+    "smileLOL",
+    "crying",
+    "facepalm",
+    "lecturing",
+    "awe",
+    "hectic",
+    "rage",
+    "eyesClosed",
+    "cheeky",
+    "pleading",
+    "embarrassed",
+    "lovingGrin1"
+  ]
+}

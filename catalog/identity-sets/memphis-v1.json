@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "setId": "memphis-v1",
+  "description": "University of Memphis student and faculty identity set.",
+  "identities": [
+    "aaliyah",
+    "marcus",
+    "nia",
+    "jordan",
+    "darius",
+    "maya",
+    "cameron",
+    "shelby",
+    "cole",
+    "hannah",
+    "ethan",
+    "avery",
+    "elena",
+    "mateo",
+    "taylor",
+    "minh",
+    "angela",
+    "calvin",
+    "denise",
+    "raymond",
+    "margaret",
+    "thomas",
+    "erin",
+    "lucia"
+  ]
+}

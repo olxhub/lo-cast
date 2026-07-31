@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 1,
+  "pipelineId": "cognitive-v1",
+  "expressionVocabulary": "../../catalog/states.json",
+  "expressions": [
+    "listening",
+    "reading",
+    "studying",
+    "writing",
+    "checkingWork",
+    "calculating",
+    "thinking",
+    "processing",
+    "confused",
+    "uncertain",
+    "realizing",
+    "understanding"
+  ],
+  "outputSize": 512,
+  "gutterThreshold": 0.65,
+  "inset": 3,
+  "characters": [
+    {
+      "name": "aaliyah",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/aaliyah-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/aaliyah-listening.png"
+      }
+    },
+    {
+      "name": "angela",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/angela-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "avery",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/avery-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "beau",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/beau-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "calvin",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/calvin-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "cameron",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/cameron-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/cameron-listening.png"
+      }
+    },
+    {
+      "name": "claire",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/claire-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "cole",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/cole-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "darius",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/darius-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "denise",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/denise-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "elena",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/elena-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "erin",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/erin-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/erin-listening.png"
+      }
+    },
+    {
+      "name": "ethan",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/ethan-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "evelyn",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/evelyn-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "hannah",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/hannah-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "jordan",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/jordan-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "lucia",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/lucia-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "marcus",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/marcus-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/marcus-listening.png"
+      }
+    },
+    {
+      "name": "margaret",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/margaret-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "marisol",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/marisol-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "mateo",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/mateo-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/mateo-listening.png"
+      }
+    },
+    {
+      "name": "maya",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/maya-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "milo",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/milo-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "minh",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/minh-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/minh-listening.png"
+      }
+    },
+    {
+      "name": "nia",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/nia-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/nia-listening.png"
+      }
+    },
+    {
+      "name": "patrice",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/patrice-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "rafael",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/rafael-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "raymond",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/raymond-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "reggie",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/reggie-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "samira",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/samira-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/samira-listening.png"
+      }
+    },
+    {
+      "name": "shelby",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/shelby-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/shelby-listening.png"
+      }
+    },
+    {
+      "name": "taylor",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/taylor-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "thomas",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/thomas-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "wesley",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/wesley-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/wesley-listening.png"
+      }
+    },
+    {
+      "name": "yusuf",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/yusuf-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/yusuf-listening.png"
+      }
+    },
+    {
+      "name": "zuri",
+      "sheets": [
+        {
+          "path": "../sources/cognitive-v1/zuri-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ],
+      "cells": {
+        "listening": "../sources/listening-redo-v1/cells/zuri-listening.png"
+      }
+    }
+  ]
+}

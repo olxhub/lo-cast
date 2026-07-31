@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "identities-v1",
+  "identities": [
+    {
+      "id": "aaliyah",
+      "name": "Aaliyah",
+      "age": 20,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "Black; medium-dark brown skin; shoulder-length coily twist-out",
+      "clothing": "navy crew-neck sweatshirt"
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus",
+      "age": 22,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "Black; deep brown skin; short locs",
+      "clothing": "olive hoodie"
+    },
+    {
+      "id": "nia",
+      "name": "Nia",
+      "age": 19,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "Black; warm brown skin; long box braids",
+      "clothing": "rust cardigan over a plain shirt"
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "age": 21,
+      "role": "student",
+      "presentation": "nonbinary",
+      "appearance": "Black; medium brown skin; short natural curls; androgynous presentation",
+      "clothing": "denim overshirt over a charcoal crew-neck"
+    },
+    {
+      "id": "darius",
+      "name": "Darius",
+      "age": 24,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "Black; dark brown skin; low fade and short beard",
+      "clothing": "burgundy henley"
+    },
+    {
+      "id": "maya",
+      "name": "Maya",
+      "age": 18,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "Black; medium brown skin; high natural puff",
+      "clothing": "heather-gray hoodie"
+    },
+    {
+      "id": "cameron",
+      "name": "Cameron",
+      "age": 20,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "Black; brown skin; short two-strand twists",
+      "clothing": "muted plaid overshirt"
+    },
+    {
+      "id": "shelby",
+      "name": "Shelby",
+      "age": 21,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "White; light skin; brown chin-length bob",
+      "clothing": "forest-green knit sweater"
+    },
+    {
+      "id": "cole",
+      "name": "Cole",
+      "age": 19,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "White; fair skin; wavy brown hair",
+      "clothing": "tan workwear jacket over a plain T-shirt"
+    },
+    {
+      "id": "hannah",
+      "name": "Hannah",
+      "age": 18,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "White; freckled fair skin; loosely tied strawberry-blond hair",
+      "clothing": "soft blue crew-neck shirt"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "age": 23,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "White; light skin; dark hair; practical rectangular glasses",
+      "clothing": "brown-and-navy flannel shirt"
+    },
+    {
+      "id": "avery",
+      "name": "Avery",
+      "age": 20,
+      "role": "student",
+      "presentation": "nonbinary",
+      "appearance": "White; light skin; cropped ash-blond hair; androgynous presentation",
+      "clothing": "black crew-neck sweatshirt"
+    },
+    {
+      "id": "elena",
+      "name": "Elena",
+      "age": 22,
+      "role": "student",
+      "presentation": "woman",
+      "appearance": "Latina; olive-brown skin; long dark wavy hair",
+      "clothing": "mustard-colored casual blouse"
+    },
+    {
+      "id": "mateo",
+      "name": "Mateo",
+      "age": 18,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "Latino; medium olive skin; short dark curls",
+      "clothing": "navy zip hoodie over a gray shirt"
+    },
+    {
+      "id": "taylor",
+      "name": "Taylor",
+      "age": 21,
+      "role": "student",
+      "presentation": "nonbinary",
+      "appearance": "Black and White multiracial; golden-brown skin; close-cropped curls; androgynous presentation",
+      "clothing": "maroon chore shirt"
+    },
+    {
+      "id": "minh",
+      "name": "Minh",
+      "age": 24,
+      "role": "student",
+      "presentation": "man",
+      "appearance": "Vietnamese American; light-medium skin; short black hair",
+      "clothing": "dark teal polo"
+    },
+    {
+      "id": "angela",
+      "name": "Angela",
+      "age": 42,
+      "role": "faculty",
+      "presentation": "woman",
+      "appearance": "Black; deep brown skin; shoulder-length locs",
+      "clothing": "plum blouse and understated cardigan"
+    },
+    {
+      "id": "calvin",
+      "name": "Calvin",
+      "age": 57,
+      "role": "faculty",
+      "presentation": "man",
+      "appearance": "Black; medium-dark skin; closely cropped salt-and-pepper hair and beard",
+      "clothing": "light blue oxford shirt"
+    },
+    {
+      "id": "denise",
+      "name": "Denise",
+      "age": 68,
+      "role": "faculty",
+      "presentation": "woman",
+      "appearance": "Black; dark brown skin; short silver natural hair",
+      "clothing": "deep green blouse with a simple necklace"
+    },
+    {
+      "id": "raymond",
+      "name": "Raymond",
+      "age": 35,
+      "role": "faculty",
+      "presentation": "man",
+      "appearance": "Black; brown skin; shaved head and neat goatee",
+      "clothing": "charcoal quarter-zip sweater"
+    },
+    {
+      "id": "margaret",
+      "name": "Margaret",
+      "age": 61,
+      "role": "faculty",
+      "presentation": "woman",
+      "appearance": "White; fair skin; short gray layered hair",
+      "clothing": "navy cardigan over a cream blouse"
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "age": 49,
+      "role": "faculty",
+      "presentation": "man",
+      "appearance": "White; light skin; receding brown-gray hair and trimmed beard",
+      "clothing": "muted checked button-down shirt"
+    },
+    {
+      "id": "erin",
+      "name": "Erin",
+      "age": 29,
+      "role": "faculty",
+      "presentation": "nonbinary",
+      "appearance": "White; light skin; short dark undercut; androgynous presentation",
+      "clothing": "slate blazer over a black crew-neck"
+    },
+    {
+      "id": "lucia",
+      "name": "Lucia",
+      "age": 38,
+      "role": "faculty",
+      "presentation": "woman",
+      "appearance": "Latina; medium olive skin; dark curly shoulder-length hair",
+      "clothing": "terracotta blouse"
+    },
+    {
+      "id": "zuri",
+      "name": "Zuri",
+      "age": 12,
+      "role": "school-age visitor or participant",
+      "appearance": "Black girl; warm brown skin; beaded shoulder-length braids",
+      "clothing": "denim jacket and backpack straps"
+    },
+    {
+      "id": "milo",
+      "name": "Milo",
+      "age": 6,
+      "role": "young child",
+      "appearance": "Latino boy; light-brown skin; tousled curls; missing front baby tooth",
+      "clothing": "orange dinosaur T-shirt"
+    },
+    {
+      "id": "wesley",
+      "name": "Wesley",
+      "role": "math teacher",
+      "sourceIdentity": "existing supplied teacher reference",
+      "clothing": "blue patterned shirt and loosened tie"
+    },
+    {
+      "id": "rafael",
+      "name": "Rafael",
+      "role": "geography teacher",
+      "sourceIdentity": "existing supplied teacher reference",
+      "clothing": "brown textured jacket and collared shirt"
+    },
+    {
+      "id": "claire",
+      "name": "Claire",
+      "role": "ecology teacher",
+      "sourceIdentity": "existing supplied teacher reference",
+      "clothing": "green blouse"
+    },
+    {
+      "id": "samira",
+      "name": "Samira",
+      "age": 28,
+      "role": "Jordanian visiting graduate teaching assistant",
+      "appearance": "Arab Muslim woman; full-figured",
+      "clothing": "contemporary black abaya and muted olive hijab"
+    },
+    {
+      "id": "yusuf",
+      "name": "Yusuf",
+      "age": 35,
+      "role": "Bahraini visiting engineering lecturer",
+      "appearance": "Arab Muslim man; lean build; neatly trimmed beard",
+      "clothing": "white thobe and white ghutra with black agal"
+    },
+    {
+      "id": "patrice",
+      "name": "Patrice",
+      "age": 45,
+      "role": "campus security officer",
+      "appearance": "Black woman; very large body and broad shoulders",
+      "clothing": "plain navy security-style uniform"
+    },
+    {
+      "id": "beau",
+      "name": "Beau",
+      "age": 20,
+      "role": "Southern fraternity student",
+      "appearance": "White man; notably thin and lanky",
+      "clothing": "pastel polo shirt"
+    },
+    {
+      "id": "reggie",
+      "name": "Reggie",
+      "age": 58,
+      "role": "campus coach",
+      "appearance": "Black man; heavyset and broad-bodied; salt-and-pepper beard",
+      "clothing": "burgundy athletic jacket and whistle"
+    },
+    {
+      "id": "evelyn",
+      "name": "Evelyn",
+      "age": 84,
+      "role": "elderly alumna and retired librarian",
+      "appearance": "Black woman; deeply lined face; silver natural hair",
+      "clothing": "purple scarf and cardigan"
+    },
+    {
+      "id": "marisol",
+      "name": "Marisol",
+      "age": 36,
+      "role": "university attorney",
+      "appearance": "Mexican American woman; medium build",
+      "clothing": "tailored charcoal business suit and pale blue blouse"
+    }
+  ]
+}

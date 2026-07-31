@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "pipelineId": "warmth-anger-v1",
+  "expressionVocabulary": "../../catalog/states.json",
+  "expressions": [
+    "smile",
+    "smileBig",
+    "smileTeethGap",
+    "smileLOL",
+    "lovingGrin1",
+    "lovingGrin2",
+    "cute",
+    "eatingHappy",
+    "annoyed",
+    "veryAngry",
+    "rage",
+    "snarling"
+  ],
+  "outputVariants": {
+    "smile": "alt",
+    "smileLOL": "alt",
+    "lovingGrin1": "alt",
+    "veryAngry": "alt",
+    "rage": "alt"
+  },
+  "outputSize": 512,
+  "gutterThreshold": 0.65,
+  "inset": 3,
+  "characters": [
+    {
+      "name": "aaliyah",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/aaliyah-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "angela",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/angela-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "avery",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/avery-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "beau",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/beau-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "calvin",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/calvin-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "cameron",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/cameron-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "claire",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/claire-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "cole",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/cole-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "darius",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/darius-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "denise",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/denise-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "elena",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/elena-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "erin",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/erin-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "ethan",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/ethan-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "evelyn",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/evelyn-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "hannah",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/hannah-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "jordan",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/jordan-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "lucia",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/lucia-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "marcus",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/marcus-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "margaret",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/margaret-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "marisol",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/marisol-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "mateo",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/mateo-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "maya",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/maya-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "milo",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/milo-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "minh",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/minh-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "nia",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/nia-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "patrice",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/patrice-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "rafael",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/rafael-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "raymond",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/raymond-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "reggie",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/reggie-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "samira",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/samira-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "shelby",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/shelby-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "taylor",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/taylor-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "thomas",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/thomas-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "wesley",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/wesley-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "yusuf",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/yusuf-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    },
+    {
+      "name": "zuri",
+      "sheets": [
+        {
+          "path": "../sources/warmth-anger-v1/zuri-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "verticalAnchor": "top"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "setId": "cognitive-v1",
+  "states": [
+    "listening",
+    "reading",
+    "studying",
+    "writing",
+    "checkingWork",
+    "calculating",
+    "thinking",
+    "processing",
+    "confused",
+    "uncertain",
+    "realizing",
+    "understanding"
+  ]
+}

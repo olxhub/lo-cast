@@ -1,0 +1,55 @@
+Use case: stylized-concept
+Asset type: identity-anchor contact sheet for creative scenario-based learning avatars
+
+Images 1–2 contain the three existing Math, Geography, and Ecology teacher
+identities and govern those three panels. Images 3–4 govern framing and finish
+for new identities.
+
+Create exactly twelve memorable, story-rich identity anchors in a clean
+4-column by 3-row grid. Each person has a calm, attentive, closed-mouth
+expression.
+
+Panel order:
+
+Row 1:
+1. Zuri, a self-possessed 12-year-old Black girl with beaded braids, denim
+   jacket, and backpack straps.
+2. Milo, a 6-year-old Latino boy with tousled curls, one missing front baby
+   tooth, and an orange dinosaur T-shirt.
+3. The existing blond ponytailed Math Teacher in blue patterned shirt and tie.
+4. The existing dark curly-haired Geography Teacher in brown jacket.
+
+Row 2:
+5. The existing female Ecology Teacher with loose updo and green blouse.
+6. Samira, a full-figured 28-year-old Jordanian Muslim visiting graduate
+   teaching assistant in a contemporary black abaya and muted olive hijab.
+7. Yusuf, a lean 35-year-old Bahraini Muslim visiting engineering lecturer in
+   a white thobe and white ghutra secured with black agal.
+8. Patrice, a very large-bodied 45-year-old Black woman campus security officer
+   in a plain navy uniform without weapon or text.
+
+Row 3:
+9. Beau, a notably thin and lanky 20-year-old White Southern fraternity student
+   in a pastel polo.
+10. Coach Reggie, a heavyset 58-year-old Black man in a burgundy athletic
+    jacket with a whistle.
+11. Evelyn, an 84-year-old Black alumna and retired librarian with deeply lined
+    face, silver hair, purple scarf, and cardigan.
+12. Marisol, a poised 36-year-old Mexican American university attorney in a
+    tailored charcoal suit and pale blue blouse.
+
+Match the supplied semi-realistic warm painterly editorial style: believable
+ordinary people, natural anatomy and skin texture, layered brushwork, fine
+hatched texture, and warm beige mottled backgrounds.
+
+Use twelve equal square crop-ready panels with continuous pale cream internal
+and outer separator gutters. Keep complete hair/headwear visible and show
+enough upper torso for clothing, body-build, and role cues.
+
+The children must look unmistakably 12 and 6. Depict large-bodied people
+respectfully. Samira's and Yusuf's clothing is authentic contemporary clothing,
+not costume. Preserve the three supplied teacher identities closely.
+
+No labels, names, captions, text, logos, watermark, extra people, hands,
+weapons, sexualized styling, caricature, generic diversity-poster styling,
+glamorization, or cartoon expressions.

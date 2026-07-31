@@ -1,0 +1,44 @@
+Use case: identity-preserve
+Asset type: 12-state avatar comparison sheet for scenario-based learning
+
+Image 1 is the authoritative identity reference. Create exactly one contact
+sheet with 4 columns and 3 rows, showing the same person in all 12 panels.
+Every panel is occupied. Preserve the exact recognizable identity, age, facial
+structure, skin tone, hairstyle, clothing, warm beige textured background, and
+semi-realistic painterly editorial style from Image 1.
+
+Panel order, left to right:
+
+Row 1 — happiness ladder:
+1. smile: small friendly closed-mouth smile.
+2. smileBig: broad joyful open-mouth smile showing teeth, not yet laughter.
+3. smileTeethGap: happy, slightly nervous or excited speaking smile; mouth only
+   slightly open, upper and lower teeth clearly separated.
+4. smileLOL: uninhibited laughter, eyes crinkled, mouth open, head slightly
+   tipped back.
+
+Row 2 — warmth and pleasure:
+5. lovingGrin1: warm affectionate broad grin with direct eye contact.
+6. lovingGrin2: tender delighted grin, eyes softly closed, head tilted, one hand
+   lightly at the heart.
+7. cute: playful charming expression, raised cheeks, bright eyes, slight head
+   tilt.
+8. eatingHappy: visibly enjoying food; a fork or spoon with a bite enters the
+   lower portrait frame, with a pleased anticipatory or chewing smile.
+
+Row 3 — anger ladder:
+9. annoyed: restrained irritation, asymmetric brow, tight mouth, small
+   impatient exhale.
+10. veryAngry: controlled intense anger, narrowed eyes, flared nostrils,
+    clenched jaw and closed or nearly closed mouth.
+11. rage: anger breaking into a loud shout, head thrust slightly forward, face
+    and neck visibly tense.
+12. snarling: extreme teeth-bared fury, upper lip raised and jaw tense.
+
+Use continuous pale cream gutters between 12 equal crop-ready portrait panels.
+Use medium bust framing consistent with the reference. Keep every complete
+head, all hair, chin, shoulders, expressive hands, and food utensil inside its
+own panel with generous background above the crown. Make neighboring states
+visibly different even at thumbnail size through facial structure, gaze, mouth
+shape, head position, and restrained bust-shot gestures. No labels, captions,
+text, logos, watermarks, empty cells, merged cells, or panel bleed.

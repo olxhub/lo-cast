@@ -1,0 +1,20 @@
+Use case: identity-preserve
+
+Create a 4-column by 3-row sheet of the same person from Image 1 in these
+twelve learning states, left to right:
+
+Row 1: listening; reading a book; studying; writing.
+Row 2: checking work; calculating with a physical calculator resting on an
+implied surface immediately below the frame; thinking with a hand at the chin
+and gaze upward; processing with a hand at the chin and gaze downward.
+Row 3: confused while scratching the side or top of the head; uncertain;
+realizing something with a raised index finger; understanding.
+
+Let facial expression, gaze, body language, hands, and natural props
+communicate each state. The calculator's upper portion and the hand pressing
+its keys may enter obliquely from the bottom edge.
+
+Keep identity, apparent age, hair, clothing, warm painterly style, beige
+background, existing close bust framing, face scale, and camera position
+consistent. Keep complete heads, hair, headwear, and meaning-bearing fingers
+visible. Use clear pale separator gutters.

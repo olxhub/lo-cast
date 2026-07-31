@@ -1,0 +1,43 @@
+Use case: identity-preserve
+Asset type: 24-expression avatar sheet for scenario-based learning
+
+Image 1 is the authoritative identity, age, hairstyle, skin tone, clothing,
+painterly finish, and warm beige background reference. Create exactly one
+4-column by 6-row contact sheet showing this same person in 24 distinct
+expressions. All 24 panels must be occupied.
+
+Panel order, left to right:
+Row 1: blank; calm; explaining while speaking; concerned.
+Row 2: concerned fear; contempt; driven/determined; fear.
+Row 3: serious; suspicious side-eye; warm smile; very angry.
+Row 4: laughing openly; crying with visible tears; facepalm with one hand;
+       lecturing with one index finger raised.
+Row 5: awe; hectic/overwhelmed with hands near head; rage; eyes peacefully
+       closed.
+Row 6: cheeky/sly; pleading; embarrassed; loving broad grin.
+
+Identity lock: preserve the exact same recognizable face, age, hair, skin,
+body proportions, and clothing in every panel. No identity drift and no
+hairstyle or wardrobe changes.
+
+Style: match the supplied semi-realistic warm painterly editorial portrait,
+natural anatomy and skin texture, fine hatched brushwork, and warm beige
+mottled background.
+
+Composition: exactly 24 equal square crop-ready portrait panels separated by
+continuous pale cream internal and outer gutters. Use medium bust framing,
+front-facing or only slight natural turns.
+
+Critical safe area: the complete head and all hair must be visible in every
+panel, with generous empty background above the crown (about 12% of panel
+height). No hair, crown, forehead, chin, shoulders, raised finger, or expressive
+hand may touch or cross a panel edge. Frame slightly wider than seems
+necessary.
+
+Constraints: one person in every panel; no empty cells; no labels, names,
+captions, text, logos, watermark, duplicated faces, panel bleed, or merged
+cells.
+
+For a retry after an incorrect row count, reinforce:
+"Create a tall portrait contact-sheet canvas containing exactly four columns
+and six rows. Six horizontal rows are mandatory. Count them before finishing."

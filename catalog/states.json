@@ -1,0 +1,445 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "states-v1",
+  "description": "Observable facial, gestural, and activity states available to avatar renderers.",
+  "states": [
+    {
+      "id": "blank",
+      "kind": "facial",
+      "intensity": "low"
+    },
+    {
+      "id": "calm",
+      "kind": "facial",
+      "intensity": "low"
+    },
+    {
+      "id": "explaining",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "concerned",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "concernedFear",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "contempt",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "driven",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "fear",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "serious",
+      "kind": "facial",
+      "intensity": "low"
+    },
+    {
+      "id": "suspicious",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "smile",
+      "kind": "facial",
+      "intensity": "low"
+    },
+    {
+      "id": "veryAngry",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "smileLOL",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "crying",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "facepalm",
+      "kind": "gesture",
+      "intensity": "high"
+    },
+    {
+      "id": "lecturing",
+      "kind": "gesture",
+      "intensity": "medium"
+    },
+    {
+      "id": "awe",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "hectic",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "rage",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "eyesClosed",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "cheeky",
+      "kind": "facial",
+      "intensity": "medium"
+    },
+    {
+      "id": "pleading",
+      "kind": "gesture",
+      "intensity": "high"
+    },
+    {
+      "id": "embarrassed",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "lovingGrin1",
+      "kind": "facial",
+      "intensity": "high"
+    },
+    {
+      "id": "snarling",
+      "kind": "facial",
+      "intensity": "high",
+      "description": "Extreme teeth-bared anger with a raised upper lip and tense jaw."
+    },
+    {
+      "id": "annoyed",
+      "kind": "facial",
+      "intensity": "medium",
+      "description": "Restrained irritation expressed through an asymmetric brow and tightened mouth."
+    },
+    {
+      "id": "cute",
+      "kind": "facial",
+      "intensity": "medium",
+      "description": "A playful, charming expression with bright eyes and a slight head tilt."
+    },
+    {
+      "id": "eatingHappy",
+      "kind": "prop",
+      "intensity": "medium",
+      "description": "Visible enjoyment while eating from a fork or spoon held within the portrait frame."
+    },
+    {
+      "id": "lovingGrin2",
+      "kind": "gesture",
+      "intensity": "high",
+      "description": "A tender delighted grin with closed eyes, a head tilt, and a hand at the heart."
+    },
+    {
+      "id": "smileBig",
+      "kind": "facial",
+      "intensity": "medium",
+      "description": "A broad open-mouth smile showing teeth without becoming laughter."
+    },
+    {
+      "id": "smileTeethGap",
+      "kind": "facial",
+      "intensity": "medium",
+      "description": "A happy, nervous, or excited speaking smile with the mouth slightly open and the upper and lower teeth separated."
+    },
+    {
+      "id": "listening",
+      "kind": "gesture",
+      "intensity": "low",
+      "group": "learning",
+      "description": "Quiet, active attention to another person, with one hand cupped beside the ear.",
+      "observableCues": {
+        "gaze": "Steady attentive focus toward the nearby speaker.",
+        "brows": "Relaxed and receptive, without worry tension.",
+        "mouth": "Closed and still, with no speaking shape.",
+        "head": "Slight forward or sideways inclination toward the speaker.",
+        "gesture": "One hand is lightly cupped beside or just behind the ear.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike calm or blank, listening uses focused attention and a hand-to-ear gesture; it depicts person-to-person listening without audio equipment."
+    },
+    {
+      "id": "reading",
+      "kind": "prop",
+      "intensity": "low",
+      "group": "learning",
+      "description": "Reading a handheld book, handout, card, or printed page.",
+      "observableCues": {
+        "gaze": "Clearly directed downward toward visible text.",
+        "brows": "Relaxed or very mildly concentrated.",
+        "mouth": "Quiet and neutral.",
+        "head": "Slightly lowered toward the material.",
+        "gesture": "Hands support the material naturally.",
+        "prop": "The upper portion of a handheld book, page, or card enters the lower frame; no table is shown."
+      },
+      "distinguishFrom": "Unlike studying, reading has no annotation gesture and little visible effort."
+    },
+    {
+      "id": "studying",
+      "kind": "hybrid",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Effortfully working through learning material rather than simply reading it.",
+      "observableCues": {
+        "gaze": "Directed toward a handheld page, card, or book.",
+        "brows": "Gently contracted in sustained concentration.",
+        "mouth": "Faintly pursed or moving as if rehearsing information.",
+        "head": "Lowered toward the material.",
+        "gesture": "A pencil, highlighter, or fingertip indicates a specific part of the material.",
+        "prop": "Handheld page, flashcard, or book edge in the lower frame, plus a pencil or highlighter when it fits naturally."
+      },
+      "distinguishFrom": "Unlike reading, studying combines visible effort with annotation, rehearsal, or point-tracking."
+    },
+    {
+      "id": "writing",
+      "kind": "gesture",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Writing on a notebook, page, or surface immediately below the camera frame.",
+      "observableCues": {
+        "gaze": "Directed down toward the implied writing surface.",
+        "brows": "Focused but not distressed.",
+        "mouth": "Quiet, often lightly compressed.",
+        "head": "Lowered and oriented toward the work.",
+        "gesture": "A visible pen or pencil in the writing hand descends naturally out of the bottom of frame.",
+        "prop": "The pen or pencil must be visible; the page or table may remain naturally off-frame."
+      },
+      "distinguishFrom": "Unlike studying, the hand is actively making marks rather than indicating or reviewing material."
+    },
+    {
+      "id": "checkingWork",
+      "kind": "hybrid",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Pausing to evaluate previously completed work.",
+      "observableCues": {
+        "gaze": "Narrowed and directed toward the work below or in the lower frame.",
+        "brows": "Slightly drawn in evaluation rather than confusion.",
+        "mouth": "Closed, thoughtful, and mildly pursed.",
+        "head": "Lowered with a small evaluative tilt.",
+        "gesture": "Pen paused above the work or one finger tracking a line.",
+        "prop": "A page edge may enter the lower frame, or the work surface may be implied immediately below it."
+      },
+      "distinguishFrom": "Unlike writing, the pen is paused; unlike confused, the expression is methodical rather than lost."
+    },
+    {
+      "id": "calculating",
+      "kind": "prop",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Performing a calculation with a recognizable handheld calculator.",
+      "observableCues": {
+        "gaze": "Fixed downward toward the calculator immediately below the frame.",
+        "brows": "Contracted in numerical concentration.",
+        "mouth": "Pursed or subtly forming numbers.",
+        "head": "Slightly lowered.",
+        "gesture": "The calculating hand reaches downward and one fingertip presses a key near the bottom edge.",
+        "prop": "A small physical calculator rests naturally on an implied surface immediately below the frame; its upper portion, display, keypad, and pressing hand may enter from the bottom at an oblique angle."
+      },
+      "distinguishFrom": "Unlike thinking or processing, calculating has an explicit numeric tool and key-entry action."
+    },
+    {
+      "id": "thinking",
+      "kind": "gesture",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Searching for an idea or considering an abstract question.",
+      "observableCues": {
+        "gaze": "Directed upward and to one side.",
+        "brows": "Gently drawn together.",
+        "mouth": "Still or slightly pursed.",
+        "head": "Slightly angled with the chin supported.",
+        "gesture": "One hand supports or strokes the chin.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike processing, thinking looks upward as if searching; unlike calculating, it uses no tool."
+    },
+    {
+      "id": "processing",
+      "kind": "gesture",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Quietly integrating information that was just received.",
+      "observableCues": {
+        "gaze": "Directed slightly downward or unfocused into the middle distance.",
+        "brows": "Mildly contracted in sustained concentration.",
+        "mouth": "Closed and lightly pressed.",
+        "head": "Still, with the chin supported or touched.",
+        "gesture": "One hand rests at the chin without the animated searching quality of thinking.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike thinking, processing looks inward or downward rather than upward; unlike understanding, it is unresolved."
+    },
+    {
+      "id": "confused",
+      "kind": "hybrid",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "Unable to make sense of the information and visibly seeking clarification.",
+      "observableCues": {
+        "gaze": "Searching eye contact toward the viewer or speaker.",
+        "brows": "Pinched unevenly, with one brow often slightly higher.",
+        "mouth": "Slightly open in a silent 'what?' shape.",
+        "head": "Noticeably tilted.",
+        "gesture": "One hand reaches to the temple or side/top of the head in a puzzled scratching or gripping gesture.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike uncertain, confused actively seeks meaning; unlike concerned, it is epistemic rather than fearful."
+    },
+    {
+      "id": "uncertain",
+      "kind": "hybrid",
+      "intensity": "low",
+      "group": "learning",
+      "description": "Having a tentative answer but lacking confidence in it.",
+      "observableCues": {
+        "gaze": "Partly averted, then tentatively toward the viewer.",
+        "brows": "One slightly raised and the other mildly drawn.",
+        "mouth": "Small hesitant line or tentative half-open answer.",
+        "head": "Minor tilt rather than the pronounced tilt of confusion.",
+        "gesture": "A pen, finger, or hand hovers without committing to an action.",
+        "prop": "Optional pen or page edge if it fits naturally."
+      },
+      "distinguishFrom": "Unlike confused, uncertain suggests a possible answer; unlike processing, it seeks reassurance from the viewer."
+    },
+    {
+      "id": "realizing",
+      "kind": "gesture",
+      "intensity": "medium",
+      "group": "learning",
+      "description": "The transient instant when an answer or connection becomes clear.",
+      "observableCues": {
+        "gaze": "Eyes suddenly widen and refocus.",
+        "brows": "Lift sharply.",
+        "mouth": "Small 'oh' shape beginning to become a smile.",
+        "head": "Lifts from the previous thinking posture.",
+        "gesture": "Chin-hand releases or one index finger begins to rise.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike awe, realizing is a contained cognitive transition; unlike understanding, it is the sudden moment before resolution."
+    },
+    {
+      "id": "understanding",
+      "kind": "facial",
+      "intensity": "low",
+      "group": "learning",
+      "description": "Settled comprehension after confusion or realization.",
+      "observableCues": {
+        "gaze": "Direct, steady, and confident.",
+        "brows": "Relaxed and open.",
+        "mouth": "Small assured smile.",
+        "head": "Slight affirmative downward inclination.",
+        "gesture": "Hands relaxed; no raised teaching finger.",
+        "prop": null
+      },
+      "distinguishFrom": "Unlike calm, understanding includes confidence and affirmation; unlike realizing, it is resolved rather than surprised."
+    },
+    {
+      "id": "disappointed",
+      "kind": "facial",
+      "intensity": "medium",
+      "description": "A subdued reaction to an outcome that fell short of hope or expectation.",
+      "distinguishFrom": "Unlike discouraged, disappointed remains upright and reacts to a particular outcome rather than showing broader loss of motivation."
+    },
+    {
+      "id": "discouraged",
+      "kind": "gesture",
+      "intensity": "medium",
+      "description": "Visibly deflated after difficulty, failure, or an unresolved setback, with the head or forehead supported by one hand.",
+      "distinguishFrom": "Unlike disappointed, discouraged uses collapsed posture and suggests reduced confidence or willingness to continue."
+    },
+    {
+      "id": "bored",
+      "kind": "gesture",
+      "intensity": "low",
+      "description": "Low engagement shown by a cheek resting in the palm and half-lidded attention drifting away.",
+      "distinguishFrom": "Unlike tired, bored is disengaged without eye rubbing, yawning, or difficulty staying awake."
+    },
+    {
+      "id": "tired",
+      "kind": "gesture",
+      "intensity": "medium",
+      "description": "Fatigue shown through heavy eyes while rubbing one eye or suppressing a yawn.",
+      "distinguishFrom": "Unlike bored, tired shows physical sleepiness; unlike sleeping, the person remains awake."
+    },
+    {
+      "id": "sleeping",
+      "kind": "gesture",
+      "intensity": "high",
+      "description": "Asleep with eyes closed and the cheek resting on folded hands and forearms across the lower frame.",
+      "distinguishFrom": "Unlike eyesClosed or tired, sleeping uses a fully resting posture rather than a momentary expression of fatigue."
+    },
+    {
+      "id": "distractedPhone",
+      "kind": "prop",
+      "intensity": "medium",
+      "description": "Attention diverted from the surrounding activity or conversation toward a visible handheld phone.",
+      "distinguishFrom": "Unlike reading or studying, the visible phone and withdrawn gaze communicate competing attention rather than focused work."
+    },
+    {
+      "id": "handRaised",
+      "kind": "gesture",
+      "intensity": "low",
+      "description": "Silently seeking a turn to speak with one open hand raised beside the head.",
+      "distinguishFrom": "Unlike interrupting, handRaised waits for acknowledgment rather than taking the conversational floor."
+    },
+    {
+      "id": "shrugging",
+      "kind": "gesture",
+      "intensity": "medium",
+      "description": "Raised shoulders and open palms communicating uncertainty, lack of knowledge, or lack of control.",
+      "distinguishFrom": "Unlike askingQuestion, shrugging need not be speaking and communicates 'I do not know' more than a specific inquiry."
+    },
+    {
+      "id": "talking",
+      "kind": "facial",
+      "intensity": "low",
+      "description": "Relaxed, emotionally neutral conversation captured naturally in mid-sentence.",
+      "distinguishFrom": "Unlike explaining, askingQuestion, or interrupting, talking carries no particular teaching, inquiry, or turn-taking force."
+    },
+    {
+      "id": "askingQuestion",
+      "kind": "gesture",
+      "intensity": "medium",
+      "description": "Speaking inquisitively with an open, upward-facing palm inviting an answer.",
+      "distinguishFrom": "Unlike shrugging, askingQuestion actively seeks a response; unlike pleading, it carries no desperation."
+    },
+    {
+      "id": "interrupting",
+      "kind": "gesture",
+      "intensity": "high",
+      "description": "Leaning forward mid-speech with an assertive hand projecting into the conversation to take the floor.",
+      "distinguishFrom": "Unlike talking, interrupting has forceful forward motion; unlike handRaised, it does not wait to be recognized."
+    },
+    {
+      "id": "whispering",
+      "kind": "gesture",
+      "intensity": "medium",
+      "description": "Speaking quietly while leaning sideways with one hand cupped beside the mouth.",
+      "distinguishFrom": "Unlike talking, whispering visibly restricts the audience and volume through posture and a cupped hand."
+    }
+  ]
+}

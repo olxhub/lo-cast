@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "setId": "scenario-v1",
+  "description": "Additional identities supporting broader scenario narratives.",
+  "identities": [
+    "zuri",
+    "milo",
+    "wesley",
+    "rafael",
+    "claire",
+    "samira",
+    "yusuf",
+    "patrice",
+    "beau",
+    "reggie",
+    "evelyn",
+    "marisol"
+  ]
+}

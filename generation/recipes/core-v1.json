@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "pipelineId": "core-v1",
+  "expressionVocabulary": "../../catalog/states.json",
+  "expressions": [
+    "blank",
+    "calm",
+    "explaining",
+    "concerned",
+    "concernedFear",
+    "contempt",
+    "driven",
+    "fear",
+    "serious",
+    "suspicious",
+    "smile",
+    "veryAngry",
+    "smileLOL",
+    "crying",
+    "facepalm",
+    "lecturing",
+    "awe",
+    "hectic",
+    "rage",
+    "eyesClosed",
+    "cheeky",
+    "pleading",
+    "embarrassed",
+    "lovingGrin1"
+  ],
+  "outputSize": 512,
+  "gutterThreshold": 0.65,
+  "inset": 3,
+  "characters": [
+    {
+      "name": "aaliyah",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/aaliyah-page-01.png",
+          "columns": 4,
+          "rows": 3,
+          "expressions": [
+            "blank",
+            "calm",
+            "explaining",
+            "concerned",
+            "concernedFear",
+            "contempt",
+            "driven",
+            "fear",
+            "serious",
+            "suspicious",
+            "smile",
+            "veryAngry"
+          ]
+        },
+        {
+          "path": "../sources/core-v1/aaliyah-page-02.png",
+          "columns": 4,
+          "rows": 3,
+          "expressions": [
+            "smileLOL",
+            "crying",
+            "facepalm",
+            "lecturing",
+            "awe",
+            "hectic",
+            "rage",
+            "eyesClosed",
+            "cheeky",
+            "pleading",
+            "embarrassed",
+            "lovingGrin1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "marcus",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/marcus-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "nia",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/nia-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "jordan",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/jordan-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ],
+      "cells": {
+        "facepalm": "../sources/cells/jordan-facepalm.png"
+      }
+    },
+    {
+      "name": "darius",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/darius-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "maya",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/maya-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ],
+      "cells": {
+        "facepalm": "../sources/cells/maya-facepalm.png"
+      }
+    },
+    {
+      "name": "angela",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/angela-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "avery",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/avery-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "calvin",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/calvin-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "cameron",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/cameron-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "cole",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/cole-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "denise",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/denise-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "elena",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/elena-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "erin",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/erin-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "ethan",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/ethan-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "hannah",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/hannah-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "lucia",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/lucia-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "margaret",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/margaret-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "mateo",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/mateo-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "minh",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/minh-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "raymond",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/raymond-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "shelby",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/shelby-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "taylor",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/taylor-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "thomas",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/thomas-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "zuri",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/zuri-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "milo",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/milo-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "wesley",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/wesley-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "rafael",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/rafael-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "claire",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/claire-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "samira",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/samira-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "yusuf",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/yusuf-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "patrice",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/patrice-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "beau",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/beau-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "reggie",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/reggie-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "evelyn",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/evelyn-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    },
+    {
+      "name": "marisol",
+      "sheets": [
+        {
+          "path": "../sources/core-v1/marisol-page-01.png",
+          "columns": 4,
+          "rows": 6
+        }
+      ]
+    }
+  ]
+}
