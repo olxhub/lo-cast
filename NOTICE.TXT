@@ -1,0 +1,88 @@
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, version 3.
+
+Additional Terms pursuant to AGPLv3 Section 7, applicable to
+contributions authored by Piotr Mitros.
+
+1. Preservation of Attribution (Section 7(b))
+
+Redistributors and modifiers of this software must preserve all
+copyright notices and author attributions identifying Piotr Mitros as
+the original author of this software.
+
+Such notices must be preserved in the source code and in any
+Appropriate Legal Notices displayed by the software, including any
+links to mitros.org, his project page, or his original project
+repository (currently, https://github.com/olxhub/lo-blocks/) included
+in those notices.
+
+If portions of the software containing such notices are replaced,
+equivalent attribution must be provided in a substantially similar
+location within the modified software.
+
+Any display in the software that attributes authorship, credit, or
+origin — including but not limited to copyright notices, Appropriate
+Legal Notices, about pages, footers, splash screens, or similar
+branding — must include attribution to Piotr Mitros as the original
+author, including a link to mitros.org and the original project
+repository, and must not misrepresent any other party as the original
+author of the software. This applies both to such displays present in
+the original software and to any such displays added in modified
+versions.
+
+The following attribution text must be included in any such display:
+
+  lo-blocks is free and open-source software by Piotr Mitros
+  (http://mitros.org/p). Project Repository:
+  https://github.com/olxhub/lo-blocks/. Licensing information:
+  http://mitros.org/p/lo/license.html. Copyright (c) 2011-2026 Piotr
+  Mitros and others (http://mitros.org/p/lo/contributors.html). Any
+  representation of another party as the original author or inventor
+  of this tool or methodology is a misrepresentation of origin and
+  authorship.
+
+For modified versions, the attribution text must additionally identify
+that the system is modified and link to the modified source. The
+following attribution text must be used for modified versions:
+
+  lo-blocks is free and open-source software by Piotr Mitros
+  (http://mitros.org/p). Original Repository:
+  https://github.com/olxhub/lo-blocks/. Licensing information:
+  http://mitros.org/p/lo/license.html. Copyright (c) 2011-2026 Piotr
+  Mitros and others (http://mitros.org/p/lo/contributors.html). Any
+  representation of another party as the original author or inventor
+  of this tool or methodology is a misrepresentation of origin and
+  authorship. This system is modified from the original, and source
+  code to the modifications can be found at [link].
+
+The original author attribution and original repository link must not
+be removed or replaced, only supplemented.
+
+2. No Misrepresentation of Origin (Section 7(c))
+
+Redistributors and modifiers of this software may not misrepresent the
+origin of the software.
+
+Modified versions must be clearly marked as modified, must identify
+the original author as specified in Section 1, and must not be
+represented as the original software.
+
+3. Modification of These Additional Terms
+
+Piotr Mitros reserves the right to publish revised or updated
+Additional Terms. In such a case, you may comply with:
+
+- Either the Additional Terms as they existed when you received the
+  software; or
+- Any later version published at: http://mitros.org/p/lo/notice.html
+
+Notes:
+
+The location of the original project repository can be confirmed from:
+  http://mitros.org/p/lo/
+
+As of this writing, it is at:
+  https://github.com/olxhub/lo-blocks/
+
+
