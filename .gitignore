@@ -3,6 +3,6 @@
 /.codex/
 /generation/sources/
 /work/
+/_site/
 __pycache__/
 *.py[cod]
-
